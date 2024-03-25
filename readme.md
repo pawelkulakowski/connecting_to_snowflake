@@ -9,4 +9,6 @@ Method 3: using snowflake connector with fetch_pandas_betches()
 
 The goal was to test three types of connections to get the data from snowflake for further data manipulation.
 
-# Created app is connecting to snowflake using snowflake.connector, creates new database, schema, table and insert new rows to the table. 
+# Sample App
+
+Created app is connecting to snowflake using snowflake.connector, creates new database, schema, table and insert new rows to the table. 
